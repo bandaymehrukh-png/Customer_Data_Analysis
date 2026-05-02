@@ -45,4 +45,4 @@ This project simulates a real-world retail analytics workflow from data cleaning
 **File:** `customer_data.pbix`
 - Revenue and sales analysis page
 - Customer behavior and segmentation page
-- Fully interactive with slicers for gender, season and product category
+
