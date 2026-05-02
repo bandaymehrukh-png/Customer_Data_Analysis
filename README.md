@@ -21,7 +21,7 @@ Built to demonstrate full-stack data analysis skills for a portfolio.
 - customer_data.pbix                   # Power BI interactive dashboard
 - Customer_Data_Analysis_Report.docx   # Full written analysis report
 - Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
-└── README.md
+- README.md
 
 ---
 
