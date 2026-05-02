@@ -3,7 +3,7 @@ End-to-end retail analytics project analyzing 10,400 customer transactions using
 📌 Project Overview
 This project simulates a real-world retail analytics workflow from data cleaning to SQL-based business intelligence and an interactive dashboard. It was built to demonstrate full stack data analysis skills for a portfolio.
 
-🗂️ Repository Structure
+## 🗂️ Repository Structure
 ├── Customer_data.ipynb                  # Python - Data cleaning & EDA
 ├── cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
 ├── customer_data.sql                    # 15+ SQL queries for business analysis
