@@ -5,13 +5,13 @@ This project simulates a real-world retail analytics workflow from data cleaning
 
 ## 🗂️ Repository Structure
 
-├── Customer_data.ipynb                  # Python - Data cleaning & EDA
-├── cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
-├── customer_data.sql                    # 15+ SQL queries for business analysis
-├── customer_data.pbix                   # Power BI interactive dashboard
-├── Customer_Data_Analysis_Report.docx   # Full written analysis report
-├── Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
-└──Readme.md
+- Customer_data.ipynb                  # Python - Data cleaning & EDA
+- cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
+- customer_data.sql                    # 15+ SQL queries for business analysis
+- customer_data.pbix                   # Power BI interactive dashboard
+- Customer_Data_Analysis_Report.docx   # Full written analysis report
+- Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
+- Readme.md
 
 
 🛠️ Tools & Technologies
