@@ -15,11 +15,10 @@ This project simulates a real-world retail analytics workflow from data cleaning
 
 
 🛠️ Tools & Technologies
-'''
-Python Data cleaning & EDA
-MySQL Business intelligence queries
-Power BI Interactive dashboard
-'''
+- Python Data cleaning & EDA
+- MySQL Business intelligence queries
+- Power BI Interactive dashboard
+
 
 📊 Dataset
 - Records: 10,400 transactions
