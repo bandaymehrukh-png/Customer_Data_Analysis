@@ -1,7 +1,7 @@
 # Customer Data Analysis
 
 End-to-end retail analytics project analyzing 10,400 customer transactions 
-using Python, MySQL, and Power BI.
+using Python, MySQL and Power BI.
 
 ---
 
@@ -57,7 +57,7 @@ Built to demonstrate full-stack data analysis skills for a portfolio.
 
 **File:** `customer_data.sql`
 
-- Revenue aggregation by product type, gender, season, and age group
+- Revenue aggregation by product type, gender, season and age group
 - Customer segmentation using `CASE` statements
 - Discount effectiveness analysis using subqueries
 - Window functions (`ROW_NUMBER() OVER`) for ranking top products per category
