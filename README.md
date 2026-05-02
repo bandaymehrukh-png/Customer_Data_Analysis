@@ -7,7 +7,7 @@ using Python, MySQL, and Power BI.
 
 ## 📌 Project Overview
 
-This project simulates a real-world retail analytics workflow — from data 
+This project simulates a real-world retail analytics workflow from data 
 cleaning to SQL-based business intelligence and an interactive dashboard. 
 Built to demonstrate full-stack data analysis skills for a portfolio.
 
