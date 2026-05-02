@@ -28,7 +28,7 @@ This project simulates a real-world retail analytics workflow from data cleaning
 - **Source:** Synthetically generated to simulate realistic retail purchasing patterns
 - **Note:** No real customer data was used. Dataset is for portfolio and educational purposes only.
 
-## 🐍 Python — Data Cleaning & EDA
+## 🐍 Python: Data Cleaning & EDA
 **File:** `Customer_data.ipynb`
 - Imputed missing `Product Type` values using an item-to-category mapping dictionary
 - Filled missing `Review Rating` with group mean per product type
