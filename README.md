@@ -44,5 +44,5 @@ This project simulates a real-world retail analytics workflow from data cleaning
 ## 📈 Power BI Dashboard
 **File:** `customer_data.pbix`
 - Revenue and sales analysis page
-- Customer behavior and segmentation page
+- Customer behavior page
 
