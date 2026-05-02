@@ -1,4 +1,4 @@
-# Customer_Data_Analysis
+# Customer_Data_Analysisa
 
 End-to-end retail analytics project analyzing 10,400 customer transactions 
 using Python, MySQL, and Power BI.
