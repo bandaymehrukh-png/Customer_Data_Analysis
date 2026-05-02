@@ -4,6 +4,7 @@ End-to-end retail analytics project analyzing 10,400 customer transactions using
 This project simulates a real-world retail analytics workflow from data cleaning to SQL-based business intelligence and an interactive dashboard. It was built to demonstrate full stack data analysis skills for a portfolio.
 
 ## 🗂️ Repository Structure
+'''
 ├── Customer_data.ipynb                  # Python - Data cleaning & EDA
 ├── cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
 ├── customer_data.sql                    # 15+ SQL queries for business analysis
@@ -11,16 +12,21 @@ This project simulates a real-world retail analytics workflow from data cleaning
 ├── Customer_Data_Analysis_Report.docx   # Full written analysis report
 ├── Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
 └──Readme.md
+'''
 
 🛠️ Tools & Technologies
+'''
 Python Data cleaning & EDA
 MySQL Business intelligence queries
 Power BI Interactive dashboard
+'''
 
 📊 Dataset
+'''
 Records: 10,400 transactions
 Source: Synthetically generated to simulate realistic retail purchasing patterns
 Note: No real customer data was used. The dataset was designed for portfolio and educational purposes only.
+'''
 
 ## 🐍 Python - Data Cleaning & EDA
 **File:** 'Customer_data.ipynb'
