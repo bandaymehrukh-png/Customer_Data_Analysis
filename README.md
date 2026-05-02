@@ -13,16 +13,15 @@ Built to demonstrate full-stack data analysis skills for a portfolio.
 
 ---
 
-## 🗂️ Repository Structure
-
-- Customer_data.ipynb                  # Python - Data cleaning & EDA
-- cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
-- customer_data.sql                    # 15+ SQL queries for business analysis
-- customer_data.pbix                   # Power BI interactive dashboard
-- Customer_Data_Analysis_Report.docx   # Full written analysis report
-- Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
-- README.md
-
+```
+├── Customer_data.ipynb                  # Python - Data cleaning & EDA
+├── cleaned_customer_shopping_data.csv   # Cleaned dataset (10,400 records)
+├── customer_data.sql                    # 15+ SQL queries for business analysis
+├── customer_data.pbix                   # Power BI interactive dashboard
+├── Customer_Data_Analysis_Report.docx   # Full written analysis report
+├── Customer_Data_Analysis_PPT.pptx      # Presentation slide deck
+└── README.md
+```
 ---
 
 ## 🛠️ Tools & Technologies
